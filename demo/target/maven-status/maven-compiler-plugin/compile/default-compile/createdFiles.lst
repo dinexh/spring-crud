@@ -1,0 +1,7 @@
+com/crud/demo/repository/StudentRepository.class
+com/crud/demo/config/CorsConfig.class
+com/crud/demo/model/Student.class
+com/crud/demo/config/WebConfig.class
+com/crud/demo/StudentsCrudApplication.class
+com/crud/demo/controller/StudentController.class
+com/crud/demo/controller/HomeController.class
